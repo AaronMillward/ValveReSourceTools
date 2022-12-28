@@ -1,0 +1,13 @@
+[package]
+name = "valve-resource-tools"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+assimp = "0.3.1"
+glam = "0.21.3"
+rand = "0.8.5"
+bitflags = "1.3.2"
+md5 = "0.7.0"
+serde = {version = "1.0.144", features = ["derive"]}
+bincode = "1.3.3"

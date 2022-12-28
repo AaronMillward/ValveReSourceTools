@@ -1,0 +1,6 @@
+[package]
+name = "valve-resource-tools-cli"
+version = "0.1.0"
+
+[dependencies]
+valve-resource-tools = {path = "../lib"}
